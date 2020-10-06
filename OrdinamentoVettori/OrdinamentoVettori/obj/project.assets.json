@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\prof.lucchi\\Documents\\OrdinamentoVettori\\OrdinamentoVettori\\OrdinamentoVettori\\OrdinamentoVettori.csproj",
+      "projectUniqueName": "C:\\Users\\prof.lucchi\\Documents\\Ov1\\OrdinamentoVettori\\OrdinamentoVettori\\OrdinamentoVettori\\OrdinamentoVettori.csproj",
       "projectName": "OrdinamentoVettori",
-      "projectPath": "C:\\Users\\prof.lucchi\\Documents\\OrdinamentoVettori\\OrdinamentoVettori\\OrdinamentoVettori\\OrdinamentoVettori.csproj",
+      "projectPath": "C:\\Users\\prof.lucchi\\Documents\\Ov1\\OrdinamentoVettori\\OrdinamentoVettori\\OrdinamentoVettori\\OrdinamentoVettori.csproj",
       "packagesPath": "C:\\Users\\prof.lucchi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\prof.lucchi\\Documents\\OrdinamentoVettori\\OrdinamentoVettori\\OrdinamentoVettori\\obj\\",
+      "outputPath": "C:\\Users\\prof.lucchi\\Documents\\Ov1\\OrdinamentoVettori\\OrdinamentoVettori\\OrdinamentoVettori\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
