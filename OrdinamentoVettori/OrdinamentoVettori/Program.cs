@@ -6,7 +6,7 @@ namespace OrdinamentoVettori
     {
         static void Main(string[] args)
         {
-            int [] vettore = new int [10] { 1, 55, -9, 7, 74, 147, -87, 6, 0, 11 };
+            int [] vettore = new int [10] { 1, 55, -9, 7, 74, 147, -87, 6, 0, 18};
 
 
             ordina(vettore);
